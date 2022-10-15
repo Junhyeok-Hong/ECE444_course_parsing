@@ -1,7 +1,7 @@
 # Script & Resources to parse undergraduate courses in the University of Toronto
 
 @ Junhyeok Hong\
-Data last updated 10/13/2022
+Data last updated 10/15/2022
 
 ## Data can be found in data directory
 
